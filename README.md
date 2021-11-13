@@ -12,6 +12,7 @@ There are three main components in this tutorial.
 
 What we **don't** cover:
 - Setting up Julia.
+    - Getting Started | Julia Programming for Data Science | on Julia Academy | with Logan Kilpatrick https://youtu.be/gWfzDj4Lttk   
     - Here is a youtube video on how to use Jupyter notebooks in Julia: https://youtube.com/watch?v=oyx8M1yoboY
     - Here is a youtube video on how to install, setup your IDE, and get started with plotting in Julia: https://www.youtube.com/watch?v=eXk9PXzuKXE&t=890s
 - Intro to Julia.
