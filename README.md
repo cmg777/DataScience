@@ -27,7 +27,7 @@ What we **don't** cover:
 ----------------------------
 # Data Science with Julia: What we cover in more detail
 
-    - [All the videos of the course are in YouTube](https://youtube.com/playlist?list=PLP8iPy9hna6QuDTt11Xxonnfal91JhqjO)
+    - All the videos of the course are in [YouTube](https://youtube.com/playlist?list=PLP8iPy9hna6QuDTt11Xxonnfal91JhqjO)
 
 Every data science task has one main ingredient, the **data**! Most likely, you want to use your data to learn something new. But before the **new** part, what about the data you already have? This is why our first section is on _Data_.  
 
