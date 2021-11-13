@@ -11,6 +11,7 @@ There are three main components in this tutorial.
 - Visualization (1 notebook)
 
 What we **don't** cover:
+
 - Setting up Julia.
     - Getting Started | Julia Programming for Data Science | on Julia Academy | with Logan Kilpatrick https://youtu.be/gWfzDj4Lttk   
     - Here is a youtube video on how to use Jupyter notebooks in Julia: https://youtube.com/watch?v=oyx8M1yoboY
@@ -18,9 +19,15 @@ What we **don't** cover:
 - Intro to Julia.
     - If you have a fair programming experience in a different language or in Julia, I would say you can jump in to this tutorial, I try to keep all functions easy and simple to understand. Also, the first notebook covers a little bit of syntax.
     - If you have the gift of time, you can start with an Intro to Julia tutorial from [JuliaAcademy](https://juliaacademy.com/p/intro-to-julia).
+    -  Video: [A gentle intro to Julia](https://youtu.be/4igzy3bGVkQ)
+    - Here are [all the videos of the course in YouTube](https://youtube.com/playlist?list=PLP8iPy9hna6QuDTt11Xxonnfal91JhqjO)
+
+
 
 ----------------------------
-# What we cover in more detail
+# Data Science with Julia: What we cover in more detail
+
+    - [All the videos of the course are in YouTube](https://youtube.com/playlist?list=PLP8iPy9hna6QuDTt11Xxonnfal91JhqjO)
 
 Every data science task has one main ingredient, the **data**! Most likely, you want to use your data to learn something new. But before the **new** part, what about the data you already have? This is why our first section is on _Data_.  
 
